@@ -3,7 +3,6 @@ COMMAND.tip = "Roll a number between 0 and 100."
 
 -- Called when the command has been run.
 function COMMAND:OnRun(player, arguments)
-	local debugcheck = arguments[1]
 	local gain = 0
 	local faction = (player:GetFaction())
 	local weapon = Clockwork.player:GetWeaponClass(player)
