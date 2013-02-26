@@ -14,6 +14,8 @@ That's All. Thank you :)
 
 Feel free to contact me at connall@orbiter-gaming.com
 
+or
+
 Connall on forums.cloudsixteen.com
 
 In the event you would like to use me for commissioning work, or just to say thank you.
