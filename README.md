@@ -20,5 +20,9 @@ Connall on forums.cloudsixteen.com
 
 In the event you would like to use me for commissioning work, or just to say thank you.
 
+Care to show your appreciation even more? Endorse me!
+
+[![endorse](http://api.coderwall.com/connall/endorsecount.png)](http://coderwall.com/connall)
+
 Connall Lindsay
 Orbiter Gaming
